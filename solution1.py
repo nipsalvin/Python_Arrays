@@ -16,5 +16,5 @@ length = len(A)
 res = solution(A, length)
 print(res)
 
-#Author Nips
+#Author N¡PS
 
