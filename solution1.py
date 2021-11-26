@@ -14,3 +14,5 @@ A = [-2, 2, -3, 2, 10, 0]
 length = len(A)
 res = solution(A, length)
 print(res)
+
+#Author Nips
